@@ -1,0 +1,34 @@
+{
+  "name": "shop_regalosublimeamor",
+  "version": "1.0.0",
+  "description": "tienda regalos para mujer, hombre y niños",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reglaosublimeamor/shop_regaloSublimeAmor.git"
+  },
+  "keywords": [
+    "tienda",
+    "shopt",
+    "regalos",
+    "alejandra",
+    "medellin",
+    "colombia"
+  ],
+  "author": "Cristian Franco Bedoya",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/reglaosublimeamor/shop_regaloSublimeAmor/issues"
+  },
+  "homepage": "https://github.com/reglaosublimeamor/shop_regaloSublimeAmor#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.14.11"
+  }
+}
