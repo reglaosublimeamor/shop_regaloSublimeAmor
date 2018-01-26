@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "regalosublimeamor-bda37",
+  "private_key_id": "f8d3eec438f59a848a8054f5de23032f5c58a102",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCv9lXlRf91JYl8\n/OJEyvWtj5aYAVTMyyu2mQo8mlozmACKdTPDfxaIjn7cl4xrey45lyCvkWzQQUYb\nf1xoH00WNSm9VWjAhXykiZWDGl7tqBFPTxlknebsQ2V1QI2AqLYI2MAmIlmAtqGi\nXKEXvvHcmCh0tUOElcDPHUWfCsHUgKJfKvGAmn3HwZrlP97lULajtj0rxeleRNf+\n3iD9snmvObwxD/3JeK4t92qvSbbe+M8R0LQ9hCMJ4/NyBU75V3Afih89KUpxnG6W\nFEzHyo1+cv5MIIjvn8hIgu1INXsxd3J47doBmRdKPHL8VUsRXKJO41Talo64NTL4\nNjFNolXRAgMBAAECggEAB0HMtFhdEyjliRf5YX6w3/P5cSKx64HQF1druIjhojnZ\nQNyZUk1gIajl0sV1yzuA8itZU+BWqWadxHXN2vX6hQlTg71dZP5EYBlUBxyL8HeD\nYj7YBGIuQ016xlmPlHAw1L/SuefmAtTVaPeyxaLQgQlt9rVAl/vgoDIb/FWSXagQ\nYUsHAqIQHb8sHDA4NYb35s92DUm7NocuGFnetQfsePwWjpzK+LRTi7kT0CFHWE+i\n97/Qkn2LZvz7ZMNJ6pdxq0YoHAyIs5MGlodoqtLsw3TnIcaCl60u8/QCq7CwndEg\n/cFbWDkPTJk/ciyj8Yf7Ja7Zp0CgITwkWZyBWOrzAQKBgQDq/U+IsR9e6ot3tIF8\npp5FH7PCVTnoTC8OagsCJyBA/gPudM2CBK5Zc1EnHPjNSVf+KnfQqWa55YQoEWCw\nH8bZkiUiRNRZaaeZNGYmMPKBD6/TlqmtKlF6m3124VVRAGreSI/7vpxFVYJcrfYl\nUevJTaguevHaMzOeRktAYHtogQKBgQC/sfJNLKAMF98MuItLmMPalhPZZfDQtNlu\nXm059Zz1lY9N7G+bUhBD77aQLO2MS2jie+QiqikMCQBAR1lXaU5z/BiZvNmEcW8z\nTxfMI5eNSldHfCkldtU5GSEDNe7+d/d2x4VXtoMcUKqAoUMKsNOU+Qnd5Vdb0kFT\nvpx8gavFUQKBgQC508u7euYl9zCHXzUuz8xFOYa73Q3IB8cGjRFbiHlXLAkL305M\nzUra7fh1B9Iw9Rkio47QccYMp9XUoblmThrAH3RCH1AVzRl+bBODjB2ZtkADARf5\nGogIf0G+av8+6SeZ1KQYHmoR4kcO53rJlHjzXffrmcn8FZVySoBjzmiJAQKBgEgl\nF5UV+3Ixtb+a4Mnlx6hHnVbPd++EcOSJ4z/SAW2oCRQBrQteukJnQGVIk2qeou3C\nRN0K/4HJDXAjqisstdsPAM8zdQXUj05XMRSiPJJvbSO5Rd8UtzDTFUqZDMZ2rgrl\nEnktdnC8pz7b8lhernK9u4nom5UyL2XuMgTl5JjRAoGBAJigPLv5HkAcgjBgDZPF\nITjBb1PWnLsAZuCaznbUKmQ2B1l3gj2JgpXIX+DfssgEL4Vj1LvLEp0HjpHMcdhD\nl58BoVzDxaGCc5tqminSkKjSM0GWlbX9BHbZyWb0LyE2PLmQCdY2OflCCj9J1tGV\n5MVwOL2tmK5qXQVNlm+W7EkQ\n-----END PRIVATE KEY-----\n",
+  "client_email": "regalosublimeamor-bda37@appspot.gserviceaccount.com",
+  "client_id": "102110684576610024290",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/regalosublimeamor-bda37%40appspot.gserviceaccount.com"
+}
