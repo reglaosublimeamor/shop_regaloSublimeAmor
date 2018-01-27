@@ -4,7 +4,7 @@
   "description": "tienda regalos para mujer, hombre y niños",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon src/index.js",
+    "start": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -27,7 +27,7 @@
   "homepage": "https://github.com/reglaosublimeamor/shop_regaloSublimeAmor#readme",
   "dependencies": {
     "express": "^4.16.2",
-    "firebase-admin": "^5.8.1"    
+    "firebase-admin": "^5.8.1"
   },
   "devDependencies": {
     "nodemon": "^1.14.11"
